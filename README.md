@@ -18,5 +18,7 @@ At first we had planned to make a Astroid game but later we understood that it w
 ## Preview
 ![image](https://user-images.githubusercontent.com/71369943/125681060-7c0642c3-b9a4-41bf-ad7e-b167a8efff75.png)
 ![image](https://user-images.githubusercontent.com/71369943/125681179-89de5855-d136-42b0-baea-aa14aba33cc9.png)
+![Screenshot 2024-08-08 225542](https://github.com/user-attachments/assets/f62b72f9-af71-4e9b-bd26-2f9374260be3)
+![Screenshot 2024-08-08 225511](https://github.com/user-attachments/assets/5f73aabc-5a4f-4c36-ac60-7f14815dab32)
 
 

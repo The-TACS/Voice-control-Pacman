@@ -1,4 +1,4 @@
-# Voice-based-Pacman ( v1.2 release 🟢 )
+# Voice-based-Pacman 
 ![image](https://user-images.githubusercontent.com/71369943/115176856-90153600-a0eb-11eb-97e7-576f5d7602bf.png)
 
 ## The problem Voice Based Pacman Game solves
